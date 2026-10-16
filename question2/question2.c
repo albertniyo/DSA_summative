@@ -344,7 +344,7 @@ void run_cmd() {
 
             return;
         default:
-            puts("invalid option try menu option, \ntryv, p, s, x, or q");
+            puts("invalid option try menu option, \ntry v, p, s, x, or q");
             break;
         }
     }
